@@ -4,7 +4,7 @@
 - Task 1: Iris Dataset Visualization
 - Task 2: Credit Risk Prediction
 - Task 3: Customer Churn Prediction
-
+- Task 4: Predicting Insurance Claim Amounts
 ## Tools & Libraries
 - Python
 - Pandas
